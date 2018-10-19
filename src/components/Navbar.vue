@@ -18,7 +18,11 @@
         </v-list>
          </v-navigation-drawer>
             <v-toolbar app dark color="primary">
-                <v-toolbar-side-icon @click="sideNav=!sideNav"></v-toolbar-side-icon>
+                <v-toolbar-side-icon 
+                  @click="sideNav=!sideNav"
+                  class="hidden-md-and-up"
+                  >
+                </v-toolbar-side-icon>
                     <v-btn outline round flat to="/" exact>SPA store VueJS</v-btn>
                         <v-spacer></v-spacer>
                     <v-toolbar-items class="hidden-sm-and-down">
