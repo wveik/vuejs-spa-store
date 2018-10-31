@@ -42,7 +42,7 @@ export default {
           description: 'Intel Core i7 8750H 2300 MHz/15.6"/1920x1080/12Gb/1000Gb HDD/DVD нет/NVIDIA GeForce GTX 1050, 4096 МБ/Wi-Fi/Bluetooth/Win 10 Home',
           price: 1220,
           promo: true,
-          imageSrc: 'https://image.ibb.co/jBZOMo/ASUS_TUF_Gaming_FX504_GD.jpg'
+          imageSrc: 'https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'
         },
         {
           id: '4',
@@ -53,7 +53,7 @@ export default {
           description: 'Intel Core i7 7700HQ 2800 MHz/17.3"/1920x1080/12Gb/1128Gb HDD+SSD/DVD-RW/NVIDIA GeForce GTX 1060/Wi-Fi/Bluetooth/Windows 10 Home',
           price: 1600,
           promo: false,
-          imageSrc: 'https://image.ibb.co/g6czu8/HP_Omen_17.jpg'
+          imageSrc: 'https://images.pexels.com/photos/7372/startup-photos.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'
         }
       ]
     }
